@@ -1,0 +1,9 @@
+#big {
+  width: 200px;
+  height: 600px;
+  border: solid black;
+}
+div {
+  width: 200px;
+  height: 200px;
+}
